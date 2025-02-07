@@ -9,7 +9,8 @@ This is a simple text-based Hangman game built as part of my Python programming 
 
 ## How to Run
 1. Clone this repository to your local machine:
-git clone: https://github.com/analystibpateladesh/CodeAlpha_Hangman_Game.git
+   ```bash
+   git clone https://github.com/analystibpateladesh/CodeAlpha_Hangman_Game.git
 
 2. Navigate to the project directory:cd CodeAlpha_Hangman_Game
 
